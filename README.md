@@ -76,16 +76,6 @@ Algorithm
 	write corresponding codeword into o/p file (lookup in mapping table OR linked list)
 0. End
 
-Contributing
-============
-
-Please feel free to submit issues and pull requests. I appreciate bug reports.
-Testing on different platforms is especially appreciated. I only tested on Linux.
-
-License
-=======
-[MIT](https://opensource.org/licenses/MIT)
-
 
 Development
 ===========
